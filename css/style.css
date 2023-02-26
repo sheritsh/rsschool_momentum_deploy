@@ -365,7 +365,7 @@ margin-right: 10px;
   }
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 410px) {
   body {
     font-size: 12px;
   }
